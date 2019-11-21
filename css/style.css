@@ -11,19 +11,19 @@
     height: 74vh;
 }
 #hero-2{
-    background-image: url("../images/children.jpg");
+    background-image: url("../images/pep-w-bubble.jpg");
     background-size: cover;
     background-position: center center;
     height: 74vh;
 }
 #hero-3{
-    background-image: url("../images/personal-pie.jpg");
+    background-image: url("../images/gar-mozz.jpg");
     background-size: cover;
     background-position: center center;
     height: 74vh;
 }
 #hero-4{
-    background-image: url("../images/Waitress_Pizza.jpg");
+    background-image: url("../images/pep-sausage.jpg");
     background-size: cover;
     background-position: center center;
     height: 74vh;
@@ -42,4 +42,10 @@
     1px -1px 0 #000,
     -1px 1px 0 #000,
     1px 1px 0 #000;
+}
+.p-margin{
+    margin-bottom: 0;
+}
+.font-wieght{
+    font-weight: bolder;
 }
