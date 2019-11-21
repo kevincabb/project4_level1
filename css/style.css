@@ -1,3 +1,45 @@
 .title-font{
     font-family: 'Lilita One', cursive;
 }
+#posRell{
+    position: relative;
+}
+#hero-1{
+    background-image: url("../images/comboByDave.jpg");
+    background-size: cover;
+    background-position: center center;
+    height: 74vh;
+}
+#hero-2{
+    background-image: url("../images/children.jpg");
+    background-size: cover;
+    background-position: center center;
+    height: 74vh;
+}
+#hero-3{
+    background-image: url("../images/personal-pie.jpg");
+    background-size: cover;
+    background-position: center center;
+    height: 74vh;
+}
+#hero-4{
+    background-image: url("../images/Waitress_Pizza.jpg");
+    background-size: cover;
+    background-position: center center;
+    height: 74vh;
+}
+#hero-content{
+    font-family: 'Lilita One', cursive;
+    font-weight: bolder;
+    border-bottom: 5px solid rgb(11, 165, 11);
+    text-transform: uppercase;
+    position: absolute;
+    top: 40px;
+    right: 20px;
+    color: rgb(23, 181, 209);
+    text-shadow: 8px 8px 10px rgb(0, 0, 0),
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+}
