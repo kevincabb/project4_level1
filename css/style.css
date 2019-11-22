@@ -52,4 +52,32 @@
 .gar-mozz{
     width: 400px;
     height: 400px;
+
+.title-font-size{
+    font-size: 35px;
+}
+
+.img-1{
+    float: left;
+    width: 275px;
+    height: 377px;
+}
+
+.main-content{
+    border: 3px;
+    border-style: solid;
+    border-color: chartreuse;
+    border-radius: 10px;
+}
+
+.main-background{
+    background-color: forestgreen;
+}
+
+.rounded-border{
+    border-radius: 10px;
+}
+
+.main-content-background{
+    background-color: rgb(102, 199, 102);
 }
