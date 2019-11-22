@@ -65,6 +65,11 @@
     border-bottom: 2px solid black;
 }
 
+.cafe-images{
+    width: 300px;
+    height: 250px;
+}
+
 .title-font-size{
     font-size: 35px;
 }
