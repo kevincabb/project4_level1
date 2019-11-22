@@ -51,7 +51,18 @@
 }
 .gar-mozz{
     width: 400px;
-    height: 400px;
+    margin: 10px;
+}
+.blt{
+    width: 400px;
+    height: 180px;
+    margin: 10px;
+}
+.bottom-boarder{
+    border-bottom: 5px solid chartreuse;
+}
+.borders-border{
+    border-bottom: 2px solid black;
 }
 
 .title-font-size{
