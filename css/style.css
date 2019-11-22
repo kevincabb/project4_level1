@@ -51,12 +51,12 @@
 }
 .gar-mozz{
     width: 400px;
-    margin: 10px;
+    padding: 10px;
 }
 .blt{
     width: 400px;
     height: 180px;
-    margin: 10px;
+    padding: 10px;
 }
 .bottom-boarder{
     border-bottom: 5px solid chartreuse;
@@ -88,7 +88,7 @@
 }
 
 .main-background{
-    background-color: forestgreen;
+    background-color: rgb(13, 54, 13);
 }
 
 .rounded-border{
@@ -96,5 +96,11 @@
 }
 
 .main-content-background{
-    background-color: rgb(102, 199, 102);
+    background-color: rgb(118, 202, 118);
+}
+.white{
+    color: white !important
+}
+.black{
+    color: black !important
 }
