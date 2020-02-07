@@ -43,6 +43,14 @@
     -1px 1px 0 #000,
     1px 1px 0 #000;
 }
+#title-shadow{
+    text-shadow: 8px 8px 10px rgb(0, 0, 0),
+    -1px -1px 0 maroon,
+    4px -1px 0 maroon,
+    -1px 4px 0 maroon,
+    4px 4px 0 maroon;
+
+}
 .p-margin{
     margin-bottom: 0;
 }
