@@ -5,25 +5,25 @@
     position: relative;
 }
 #hero-1{
-    background-image: url("../images/comboByDave.jpg");
+    background-image: url("./images/comboByDave.jpg");
     background-size: cover;
     background-position: center center;
     height: 74vh;
 }
 #hero-2{
-    background-image: url("../images/pep-w-bubble.jpg");
+    background-image: url("./images/pep-w-bubble.jpg");
     background-size: cover;
     background-position: left center;
     height: 74vh;
 }
 #hero-3{
-    background-image: url("../images/gar-mozz.jpg");
+    background-image: url("./images/gar-mozz.jpg");
     background-size: cover;
     background-position: center center;
     height: 74vh;
 }
 #hero-4{
-    background-image: url("../images/pep-sausage.jpg");
+    background-image: url("./images/pep-sausage.jpg");
     background-size: cover;
     background-position: left center;
     height: 74vh;
